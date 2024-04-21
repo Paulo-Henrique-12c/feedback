@@ -45,19 +45,7 @@ body {
     margin-bottom: 30px;
 }
 
-.card h1{
-    color: var(--white);
-    font-size: 28px;
-    margin-bottom: 15px;
-}
-
-.card p{
-    color: var(--light-grey);
-    font-size: 15px;
-    line-height: 24px;
-    margin-bottom: 24px;
-}
-
+c
 .botoes {
   display: flex;
   justify-content: space-between;
